@@ -1,1 +1,3 @@
-# lazuli-global-website
+# Lazuli Global Website
+
+The website for https://lazuli.global
